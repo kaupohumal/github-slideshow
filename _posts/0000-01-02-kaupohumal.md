@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Elu on ikka seiklus küll
 Use the left arrow to go back!
